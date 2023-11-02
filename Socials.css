@@ -19,7 +19,8 @@
 }
 
 .u-section-1 .u-icon-3 {
-  height: 100%;
+  height: 385px;
+  color: rgb(219, 83, 75) !important;
 }
 
 @media (max-width: 1199px) {
